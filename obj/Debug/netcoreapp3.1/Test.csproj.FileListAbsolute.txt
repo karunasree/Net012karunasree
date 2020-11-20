@@ -1,0 +1,13 @@
+C:\Karunasree\Humber\Net 012\Projects\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Karunasree\Humber\Net 012\Projects\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Karunasree\Humber\Net 012\Projects\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Karunasree\Humber\Net 012\Projects\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Karunasree\Humber\Net 012\Projects\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Karunasree\Humber\Net 012\Projects\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Karunasree\Humber\Net 012\Projects\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Karunasree\Humber\Net 012\Projects\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Karunasree\Humber\Net 012\Projects\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Karunasree\Humber\Net 012\Projects\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Karunasree\Humber\Net 012\Projects\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Karunasree\Humber\Net 012\Projects\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Karunasree\Humber\Net 012\Projects\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
